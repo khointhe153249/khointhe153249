@@ -1,4 +1,4 @@
-# Java FPT
+# Full Java FPT
 
 This repo include all source code java when I learned in university.
 
@@ -40,3 +40,4 @@ This repo include all source code java when I learned in university.
 ### LAB231 - Web Java Lab
 
 Just included two lesson that I passed (TuanVM)
+- Chúng tôi còn update tiếp...
