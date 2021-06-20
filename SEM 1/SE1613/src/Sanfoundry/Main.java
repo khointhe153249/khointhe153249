@@ -32,7 +32,7 @@ public class Main {
         System.out.println("ar: "+ar);
         ar.remove((Object)10);
         System.out.println("ar: "+ar);
-        System.out.println("Hello world");
+        System.out.println("Nguyễn Tiền Khôi");
     } 
     
 }
